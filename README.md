@@ -1,7 +1,13 @@
 ### Hello, I am Eduardo Aire!
 [![Github](https://img.shields.io/github/followers/eduairet?label=Follow&style=social)](https://github.com/eduairet)
 
-I am a front end software developer with over six years of experience and more than ten years in design. My professional focus includes APIs, accessibility, UX/UI, Web3, CI/CD, software architecture, automation, typography and fonts.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+I am a front end software engineer with over six years of experience and more than ten years in design. My professional focus includes APIs, accessibility, UX/UI, Web3, CI/CD, software architecture, automation, typography and fonts.
 
 I have a strong curiosity for new topics and technologies and enjoy exchanging ideas, teaching what I know, and discussing emerging concepts. I strive to apply my knowledge to build and create effectively.
 
