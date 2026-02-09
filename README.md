@@ -37,7 +37,7 @@ I have a strong curiosity for new topics and technologies and enjoy exchanging i
 
 - Currently working at [BevNET.com](https://www.bevnet.com/) as a Web Developer (05/2023 - 01/2026) and transitioning to a Software Engineer role (01/2026 - Present).
 - Contributed to the MVP of [Melvin Pay](https://www.melvinpay.com/) in early 2023.
-- Was a finalist at [ETH Online 2022](https://ethglobal.com/showcase/interplanetary-fonts-haspopup) for building Interplanetary Fonts with an amazing team. I later joined the [Encode Women Build Web3](https://www.blog.encode.club/women-build-web3-accelerator-with-encode-summary-67cc905de63c#b88c) accelerator to continue developing this project alongside the same wonderful people and new talented builders, thanks to [hyperalchemy](https://github.com/hyperalchemy).
+- Was a finalist at [ETH Online 2022](https://ethglobal.com/showcase/interplanetary-fonts-ekwuo) for building Interplanetary Fonts with an amazing team. I later joined the [Encode Women Build Web3](https://www.blog.encode.club/women-build-web3-accelerator-with-encode-summary-67cc905de63c#b88c) accelerator to continue developing this project alongside the same wonderful people and new talented builders, thanks to [hyperalchemy](https://github.com/hyperalchemy).
 - Had an incredible experience as a Font Engineer and Type Designer at [And Repeat, Inc.](https://andrepeat.com/) from 2021 to 2022.
 - View my design and art archive on [Behānce](https://www.behance.net/eduairet).
 
