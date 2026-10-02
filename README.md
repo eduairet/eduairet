@@ -1,44 +1,37 @@
 ### Hello, I am Eduardo Aire!
 [![Github](https://img.shields.io/github/followers/eduairet?label=Follow&style=social)](https://github.com/eduairet)
 
+I am a design engineer and product engineer. I have over ten years in design and typography, and six years building web applications end to end with React, Next.js, TypeScript, .NET, and SQL Server.
+
+I have a strong curiosity for new topics and technologies and enjoy exchanging ideas, teaching what I know, and discussing emerging concepts. I strive to apply my knowledge to build and create effectively.
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![.NET_Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Framer_Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MS_SQL_Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub_Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-I am a software engineer with over six years of experience and more than ten years in design. My professional focus includes APIs, accessibility, UX/UI, Web3, CI/CD, software architecture, automation, typography and fonts.
-
-I have a strong curiosity for new topics and technologies and enjoy exchanging ideas, teaching what I know, and discussing emerging concepts. I strive to apply my knowledge to build and create effectively.
 
 #### Experience:
 
-- Currently working at [BevNET.com](https://www.bevnet.com/) as a Web Developer (05/2023 - 01/2026) and transitioning to a Software Engineer role (01/2026 - Present).
+- Since Jan 2026 I have been a Software Engineer at [BevNET.com](https://www.bevnet.com/). I do full-stack work on a media platform (BevNET, Nosh, Brewbound, Taste Radio, and Nombase) built on .NET and Next.js. I moved PodcastView to Next.js with TypeScript and upgraded the AWS Lambda services to .NET 10. I re-architected PressRelease search on SQL Server, replacing LIKE table scans with an indexed search column kept in sync by triggers, and tuned the EF Core queries and caching. It shipped as a reversible migration. I built the Nombase Funding feature end to end, from the SQL database and .NET Core API to the company-page interface, and set up Sentry across 7 services so production issues get caught and fixed.
+- Frontend Developer at [BevNET.com](https://www.bevnet.com/) from May 2023 to Jan 2026. I turned designs into production UI for nombase.com and the BevNET brands, keeping the details intact from design to code. I grew from front-end into full-stack work (API design, database cleanup, migrations, and testing), which led to my promotion to Software Engineer.
 - Contributed to the MVP of [Melvin Pay](https://www.melvinpay.com/) in early 2023.
 - Was a finalist at [ETH Online 2022](https://ethglobal.com/showcase/interplanetary-fonts-ekwuo) for building Interplanetary Fonts with an amazing team. I later joined the [Encode Women Build Web3](https://www.blog.encode.club/women-build-web3-accelerator-with-encode-summary-67cc905de63c#b88c) accelerator to continue developing this project alongside the same wonderful people and new talented builders, thanks to [hyperalchemy](https://github.com/hyperalchemy).
-- Had an incredible experience as a Font Engineer and Type Designer at [And Repeat, Inc.](https://andrepeat.com/) from 2021 to 2022.
+- Had an incredible experience as a Font Engineer and Type Designer at [And Repeat, Inc.](https://andrepeat.com/) from 2021 to 2022. I designed type and built the production tooling behind And Repeat's typefaces: Python scripts and Glyphs plugins for OpenType features, interpolation, kerning, QA, and export. I led the development of a plugin that generates boxed fonts from existing typefaces, built the Branding System Generator and presented it at Typographics TypeLab 2022, and set up release QA with Python unit tests and Font Bakery checks.
 - View my design and art archive at [eduairet.myportfolio.com](https://eduairet.myportfolio.com/).
 
 #### More about me:
